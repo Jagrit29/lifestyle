@@ -1,2 +1,2 @@
 # lifestyle
-Website developed using HTML , CSS , and Bootstrap
+Website developed using HTML , CSS , and Bootstrap ( No backend)
